@@ -13,4 +13,4 @@ Contains the final report, that presents the whole information about the project
 * **Model folder** \
 Contains python files for both classification and summarization models in two formats each: a standart *'\*\.py'* python file and the *'\*\.ipynb'* notebook document
 * **Supplementary folder** \
-Contains the code for the first-choice model for summarization, that was later abandoned (c.f. Report / Model Choice) in both formats: *'\*\.py'* and *'\*\.ipynb'*
+Contains the code for the first-choice model for summarization, that was later abandoned (c.f. DS-Practical/documentation/Report_Data Quality Metrics.pdf --> Ch. 3.4 Model Choice) in both formats: *'\*\.py'* and *'\*\.ipynb'*
