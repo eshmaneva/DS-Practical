@@ -2,7 +2,7 @@
 
 When (or after) the car is produced, different defects occur. These defects are recorded and stored in the data source – the **“Knowledge base”** – that summarizes similar defects and assigns them to the prebuilt defect cluster. Each defect contains high amount of human written-text data, which makes analysis time-consuming and complicated. 
 
-Hence, to ease the inspection of such data, the **goal** of this project was set to building a model that will process the human created text data of different length, create a summary of it, classify it based on the „sense“ of the generated summary and evaluate the quality of it. Shortly speaking, a model, that reads human written text, creates a summary for it and classifies it to one of the pre-defined classes.
+Hence, to ease the inspection of such data, the **goal** of this project was set to *building a model that will process the human created text data of different length, create a summary of it, classify it based on the „sense“ of the generated summary and evaluate the quality of it*. Shortly speaking, a model, that reads human written text, creates a summary for it and classifies it to one of the pre-defined classes.
 
 
 ### The structure of the repository:
