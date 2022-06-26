@@ -1,4 +1,4 @@
-The "data" folder contains the description and the data files used in both summarization and classification models.
+Current folder contains the description and the data files used in both summarization and classification models.
 
 The dataset that is used as the input for the **T5 Summarization model** and the **Classification model** is the Amazon Product Review dataset, which is available on [Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews).
 It is a publicly available dataset which contains 568.454 reviews. The data is stored within 10 columns: _Id_, _ProductId_, _UserId_, _ProfileName_, _HelpfulnessNumerator_, _HelpfulnessDenominator_, _Score_, _Time_, _Summary_, and _Text_.
