@@ -1,1 +1,1 @@
-TEST
+Current folder contains the code for the first-choice model for summarization, that was later abandoned (c.f. DS-Practical/documentation/Report_Data Quality Metrics.pdf --> Ch. 3.4 Model Choice) in both formats: '\*\.py' and '\*\.ipynb'
